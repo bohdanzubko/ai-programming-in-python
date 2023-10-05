@@ -12,6 +12,7 @@ The number of names also depends on the option. Also use four colors. Develop a 
 
 
 * My picture:
+
     ![img.png](img/my_pic.png)
 
 
